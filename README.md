@@ -5,3 +5,4 @@
 
 [IA_4](Sharenise_Astacio_IA_4.py)
 
+[IA_6](Sharenise_Astacio_IA_6.py)
